@@ -1,0 +1,9 @@
+
+
+1. install PHPUnit. http://www.phpunit.de/manual/current/en/installation.html
+
+2. run `phpunit VimwikiParserTest.php` in your command line.
+
+
+
+
